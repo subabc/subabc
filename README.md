@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subabc
 - 👀 I’m interested in Web development, RaspberryPi & Ardunio projects
-- 🌱 I’m currently learning HTML, CSS, JavaScript, VB.NET
+- 🌱 I’m currently learning HTML, CSS, Java, Haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
